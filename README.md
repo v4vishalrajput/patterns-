@@ -20,8 +20,8 @@ public class pattern {
        	   
     	   }
     	   
-          int j=1;
-          int var=i;
+          int  j=1;
+          int  var=i;
     	   
     	   while(j<=i) { 
     		   
