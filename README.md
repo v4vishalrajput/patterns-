@@ -20,10 +20,10 @@ public class pattern {
        	   
     	   }
     	   
-          int   j=1;
-          int  var=i;
+          int   l=1;
+          int   var=i;
     	   
-    	   while(j<=i) { 
+    	   while(l<=i) { 
     		   
     		   System.out.print(var);
     		   var++;
